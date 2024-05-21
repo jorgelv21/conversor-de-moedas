@@ -11,9 +11,6 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class ConversorService {
-    public String base_code;
-    public String target_code;
-    public double valor;
     public String apiKey;
     List<Conversor> listConversor = new ArrayList<>();
 

@@ -8,7 +8,6 @@ import java.util.Scanner;
 public class Menu {
     Scanner captura = new Scanner(System.in);
 
-
     public void menu() {
         boolean menuAtivo = true;
 
